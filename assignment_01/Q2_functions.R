@@ -88,13 +88,16 @@ is_it_3_or_4(3)
 # Test cases with different inputs:
 
 # Test case 1:
-# Add a different function call in this line, like is_it_3_or_4(3), above.
+# is_it_3_or_4(num_in = 3)
+[1] TRUE
 
 # Test case 2:
-# Add a different function call in this line, like is_it_3_or_4(3), above.
+#  is_it_3_or_4(num_in = 5)
+[1] FALSE
 
 # Test case 3:
-# Add a different function call in this line, like is_it_3_or_4(3), above.
+# is_it_3_or_4(num_in = 4)
+[1] TRUE
 
 
 #--------------------------------------------------------------------------------
